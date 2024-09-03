@@ -1,16 +1,7 @@
-# todo_bloc_tutorial
+# TODO app w/ BLoC State Management x ISAR Local Database
 
-A new Flutter project.
+Follows Clean Architecture Pattern.
 
-## Getting Started
+Watch the tutorial: https://youtu.be/brDKUf1yV6c
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![18028203-C0EA-4D34-A885-8720A70CB64D](https://github.com/user-attachments/assets/61093f87-67d9-455a-9e6a-21485831d609)
